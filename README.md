@@ -17,7 +17,7 @@ python Galaxian.py
 
 ### 截图
 + 游戏进行时
-![game](https://raw.githubusercontent.com/shennian/PythonGames/master/screenshots/galaxian_01.jpg)
+![game](https://raw.githubusercontent.com/shennian/PythonGames/master/screenshots/gxlaxian_01.jpg)
 + 游戏结束
 ![game](https://raw.githubusercontent.com/shennian/PythonGames/master/screenshots/galaxian_02.jpg)
 + 模型制作器
