@@ -22,3 +22,11 @@ python Galaxian.py
 ![game](https://raw.githubusercontent.com/shennian/PythonGames/master/screenshots/galaxian_02.jpg)
 + 模型制作器
 ![game](https://raw.githubusercontent.com/shennian/PythonGames/master/screenshots/galaxian_03.jpg)
+
+## 俄罗斯方块（Tetris）
+python Tetris.py
+
+### 截图
++ 游戏进行时
+![game](https://raw.githubusercontent.com/shennian/PythonGames/master/screenshots/Tetris.jpg)
+
